@@ -9,7 +9,7 @@ draft: false
 lang: ''
 ---
 # Hey
-Heya! I'm Silvereen. I am a full-stack web developer, game designer, buisness person, and music producer (sorta). 
+Hey! I'm Silvereen. I am a full-stack web developer, game designer, buisness person, and music producer (sorta). 
 
 Here are the languages I know:
 - HTML
