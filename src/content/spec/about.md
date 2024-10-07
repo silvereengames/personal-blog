@@ -1,9 +1,34 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Heya! I'm Silvereen. I am a full-stack web developer, game designer, buisness person, and music producer (sorta). 
 
-::github{repo="saicaca/fuwari"}
+Here are the languages I know:
+- HTML
+- CSS
+- JavaScript
+- Python
+- Plus Some knowlege on any other main programming language
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Here are some of the brands and companies I'm working on:
+- Silvereen Games - A general software company that creates websites, games, and provides hosting
+- Moonlight - A privacy focused stunning, lightweight, and easy to deploy game site.
+- BilligerHost - Get some of the best hosting for an extremely cheap price.
+
+My intrests:
+- Programming
+- Gaming
+
+... thats pretty much it
+
+Top three favorite games:
+- Satisfactory
+- OuterWilds
+- GTA?
+
+Top five best games:
+- OuterWilds
+- Subnautica
+- Firewatch
+- Satisfactory
+- Infra
+
+Is there is difference? YES! *Get Outer Wilds you wont regret it...*
