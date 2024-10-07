@@ -1,0 +1,22 @@
+---
+title: Completely vanish off the internet
+published: 2024-10-07
+description: 'How to vanish off the internet and stay completely private'
+image: ''
+tags: [Blog, Privacy]
+category: 'Guides'
+draft: true
+lang: ''
+---
+# How to remove yourself from the internet and stay private
+Yes... although it may not seem like it, many large companies are collecting data from you, every minute, every day.
+
+In this post, I will tell you how to completely remove as much of your data as you can from the internet and some tools you can use to 
+make sure your identity stays private going foward. 
+
+## Removing your data
+Your data is everywhere on the web. Don't believe me? Try searching up your name. Now you may or may not find much information about yourself
+but there is this little thing called Google search query parameters. These parameters allow you to only search specific websites and file types. 
+For example if your name is John Doe, you can search `"John Doe" filetype:pdf`. This will search for you exact name, in this case `John Doe` with the 
+file type of PDF. And now wow, every PDF document on the web with your name in it will appear right in front you. These documents can be detailed 
+with names, phone numbers, occupations, education, addresses, and all sorts of personal information. 
