@@ -41,10 +41,10 @@ more often then not track you... such as Chrome.
 - If you use Chrome, I reccomend switching to FireFox or Brave as it does not sell you track your data. If you really want to be private then you can use the Tor browser although it may be slow
 - Ditch Google and use DuckDuckGo instead. Google loves to track every piece of information about you and DuckDuckGo just lets
 you browse the web free of this tracking
-- Use a VPN. A VPN will allow you to spoof your IP and reigon because every website with Google Analitics on it will track you and send information to Google. Not what you want. I reccomend Mullvad because it is one of the cheapest VPNs and they also
+- Use a VPN. A VPN will allow you to spoof your IP and reigon because every website with Google Analytics on it will track you and send information to Google. Not what you want. I reccomend Mullvad because it is one of the cheapest VPNs and they also
 collect no data on you what so ever... not even a username, email, or password. (again please sponcer me)
 - Ditch your antivirus software! Most antivirus software is in fact spy ware and bloat ware. Yes I am talking to you 
-McAffee. I reccomend using Virus Total as it is free and open source and detects most malware (aka McAffee)
+McAffee. I reccomend using Virus Total as it is free and and detects most malware (aka McAffee)
 - Yes... even Discord is tracking you. Every channel you open, every message you send, every server you open with timestamps, IP addresses, etc are being tracking. Below I provided an example of the request Discord makes every time you open a channel. Instead of using Discord, I highly reccomend using Signal, an open source, free, encrypted messaging app that never records your data. The proof is in the source code.
 <iframe width="956" height="514" src="https://www.youtube.com/embed/wYHa8K3e_CQ" title="Example of Discord tracking your data." frameborder="0" allowfullscreen></iframe>
 
