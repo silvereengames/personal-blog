@@ -23,5 +23,6 @@ lang: ''
 - Discord - I use it everyday but they track literally EVERYTHING. Go to my how to stay hidden blog post for a example.
 - Nginx - Its great but like why so complicated. Caddy is just so easy.
 - Cpanel - Why is it so overpriced again? Use Webmin or DirectAdmin instead. 
+- Ionos - They deleted my server and said "my bad". Props to Bob with IT support tho he was actuality helpful. Use BilligerHost instead
 
 *Still working on this just ran out of time :)*
