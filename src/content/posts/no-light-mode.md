@@ -12,7 +12,7 @@ Why do we as a society still default to light mode sometimes? Like most sites **
 
 For example I just booted this nice new GitHub Codespace to write this post in and guess what... IT DEFAULTS TO LIGHT MODE AHHHHH HELP!!!
 
-![I hate lightmode](https://imgur.com/a/BONQg8f)
+![I hate lightmode](https://i.imgur.com/CMdAgpq.png)
 
 Even this blog for some reason sometimes defaults to lightmode. The worst part is I can't save your eyes and turn it off!
 
