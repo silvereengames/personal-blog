@@ -21,6 +21,7 @@ A few days ago I think I created one of my best works yet. I tried to re-create 
 As for my original work "The Abyss", I have uploaded that to soundcloud, then experimented with a music distributor to understand the processes of publishing to Spotify, Amazon music, Apple Music, etc, etc. You can listen to it on any platform but i've included the Spotify and Soundcloud links below:
 
 **Spotify**: [The Abyss on Spotify](https://open.spotify.com/album/5Ue5odImaGgS23wfdVE6in)
+
 **Soundcloud**: [They Abyss on Soundcloud](https://soundcloud.com/silvereen-sc/the-abyss)
 
 Thank you for taking the time to read this update! I have some fun stuff coming to this blog soon, so stay updated!
