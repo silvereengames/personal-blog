@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Silvereen',
-  subtitle: 'Silvereen\'s Blog',
+  subtitle: 'Silvereen\'s Legacy Blog',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
     hue: 250,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -19,9 +19,9 @@ export const siteConfig: SiteConfig = {
     src: '/background.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
-      enable: false,         // Display the credit text of the banner image
-      text: '',              // Credit text to be displayed
-      url: ''                // (Optional) URL link to the original artwork or artist's page
+      enable: true,         // Display the credit text of the banner image
+      text: 'This is a legacy blog, click to go to the new one',              // Credit text to be displayed
+      url: 'https://silvereen.dev'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   favicon: [    // Leave this array empty to use the default favicon
@@ -41,6 +41,11 @@ export const navBarConfig: NavBarConfig = {
     {
       name: 'GitHub',
       url: 'https://github.com/silvereengames',     // Internal links should not include the base path, as it is automatically added
+      external: true,                               // Show an external link icon and will open in a new tab
+    },
+    {
+      name: 'New blog',
+      url: 'https://silvereen.dev',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
